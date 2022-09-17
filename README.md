@@ -7,4 +7,4 @@ A trilha **Explorer** é para as pessoas que estão começando do zero ou querem
 1. **HTML**
 2. **CSS**
 
-### [Link para a Página]( "Game Hub")
+### [Link para a Página](https://luca-merighi.github.io/NLW9-ESports-Explorer/ "Game Hub")
